@@ -1,4 +1,0 @@
-hoge
-test
-test
-huge
